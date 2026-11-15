@@ -9,7 +9,7 @@
 | **Professor(a)** | Evandro Junior |
 | **Tema** | Distribuidora de bebidas (atacado para bares, restaurantes, mercados e hotéis) |
 | **SGBD** | MySQL 8.0.16 ou superior |
-| **Repositório** | [URL do repositório no GitHub] |
+| **Repositório** | https://github.com/JuliaMota19/Distribuidora-de-bebidas-.git |
 
 ---
 
