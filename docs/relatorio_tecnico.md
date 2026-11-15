@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| **Integrantes** | Julia Oliveira Mota — [matrícula] <br> João Victor Gomes — [matrícula] |
+| **Integrantes** | Julia Oliveira Mota — <br> João Victor Gomes —  |
 | **Professor(a)** | Evandro Junior |
 | **Tema** | Distribuidora de bebidas (atacado para bares, restaurantes, mercados e hotéis) |
 | **SGBD** | MySQL 8.0.16 ou superior |
