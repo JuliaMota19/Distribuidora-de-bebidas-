@@ -96,4 +96,4 @@ Além das tabelas, a view `vw_pedido_total` calcula o valor total de cada pedido
 
 - Todos os dados são **fictícios**. Marcas e produtos reais servem só como referência de catálogo; CPF/CNPJ foram gerados com dígitos verificadores válidos, mas não pertencem a pessoas ou empresas reais.
 - Data de referência dos dados: 25/06/2026.
-- Ferramentas auxiliares: MySQL/MySQL , Graphviz (geração do DER) e assistente de IA generativa para apoio de estudo. Os integrantes revisaram e compreendem todo o código.
+- Ferramentas auxiliares: MySQL/MySQL , Draw.io (geração do DER) e assistente de IA generativa para apoio de estudo. Os integrantes revisaram e compreendem todo o código.
